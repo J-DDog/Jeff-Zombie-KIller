@@ -7,15 +7,19 @@
   <sounds name="sound"/>
   <sprites name="sprites">
     <sprite>sprites\ghost</sprite>
-    <sprite>sprites\wallTile</sprite>
-    <sprite>sprites\player</sprite>
+    <sprite>sprites\jeff</sprite>
+    <sprite>sprites\blankSprite</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\tileSetBackground</background>
   </backgrounds>
   <paths name="paths"/>
+  <scripts name="scripts">
+    <script>scripts\walkingScript.gml</script>
+  </scripts>
   <objects name="objects">
     <object>objects\playerObject</object>
+    <object>objects\wallObject</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\firstStage</room>
