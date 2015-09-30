@@ -48,7 +48,7 @@
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>direction = (x - playerObject.x) / (y - playerObject.y);
+            <string>direction = (x - playerObject.x)/(y - playerObject.y)*100;
 </string>
           </argument>
         </arguments>
