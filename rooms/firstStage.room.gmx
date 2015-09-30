@@ -57,6 +57,7 @@
     <instance objName="wallObject" x="256" y="32" name="inst_FB9D87C3" locked="0" code="" scaleX="1" scaleY="7" colour="4294967295" rotation="0"/>
     <instance objName="wallObject" x="224" y="224" name="inst_4A8581C1" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="wallObject" x="32" y="224" name="inst_BEC72E8F" locked="0" code="" scaleX="6" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="zombie" x="192" y="160" name="inst_751A9B45" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles>
     <tile bgName="tileSetBackground" x="0" y="0" w="32" h="32" xo="0" yo="0" id="10000001" name="inst_B55395B8" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>

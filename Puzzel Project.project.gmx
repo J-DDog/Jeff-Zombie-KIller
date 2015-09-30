@@ -20,6 +20,7 @@
   <objects name="objects">
     <object>objects\playerObject</object>
     <object>objects\wallObject</object>
+    <object>objects\zombie</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\firstStage</room>
