@@ -6,9 +6,9 @@
   <NewExtensions/>
   <sounds name="sound"/>
   <sprites name="sprites">
-    <sprite>sprites\ghost</sprite>
-    <sprite>sprites\jeff</sprite>
-    <sprite>sprites\blankSprite</sprite>
+    <sprite>sprites\sprite_ghost</sprite>
+    <sprite>sprites\sprite_jeff</sprite>
+    <sprite>sprites\sprite_blank_space</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\tileSetBackground</background>
@@ -18,9 +18,9 @@
     <script>scripts\walkingScript.gml</script>
   </scripts>
   <objects name="objects">
-    <object>objects\playerObject</object>
-    <object>objects\wallObject</object>
-    <object>objects\zombie</object>
+    <object>objects\object_player</object>
+    <object>objects\object_wall</object>
+    <object>objects\object_zombie</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\firstStage</room>
